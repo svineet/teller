@@ -1,4 +1,6 @@
 *.py[cod]
+# Pickle data files
+*.pickle
 
 # C extensions
 *.so
