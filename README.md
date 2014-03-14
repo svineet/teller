@@ -1,7 +1,7 @@
 teller
 ======
 
-A IRC bot to tell people things when they come online
+A IRC bot to tell people things when they come online.
 
 Usage
 -----
@@ -23,6 +23,8 @@ Commands
 Tell someone:
 
     tellerbot tell svineet you're awesome
+
+When svineet comes online, tellerbot will tell him this message.
 
 Tell you when someone comes online(not yet functional):
 
